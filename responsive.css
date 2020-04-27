@@ -1,7 +1,7 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .portofolio {
-    width: auto;
+    width: 50%;
     float: none;
   }
   
@@ -21,7 +21,7 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .portofolio {
-    width: auto;
+    width: 50%;
     float: none;
   }
   
@@ -33,7 +33,7 @@
     width: 100%;
   }
   
-  .contact-form {
+  .col-sm-6 contact-form {
     width: auto;
     float: none;
   }
