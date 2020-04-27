@@ -1,8 +1,8 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .banner {
-    width: 50%;
-    margin-bottom: 50px;
+  .portofolio {
+    width: auto;
+    float: none;
   }
   
   .top-wrapper h1 {
@@ -20,8 +20,9 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  .banner {
-    width: 100%;
+  .portofolio {
+    width: auto;
+    float: none;
   }
   
   footer {
@@ -33,7 +34,8 @@
   }
   
   .contact-form {
-    width: 100%;
+    width: auto;
+    float: none;
   }
   
   .top-wrapper {
