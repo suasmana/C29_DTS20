@@ -22,8 +22,8 @@
   width: 50%;
 }
 .medsos {
-  width: auto;
-  padding: center;
+  width: 100%;
+  padding-left: 155px;
 }
   
 }
@@ -44,7 +44,7 @@
   }
   
   .contact-form {
-    width: auto;
+    width: 100%;
     float: none;
   }
   
@@ -79,8 +79,8 @@
     width: 100%;
   }
   .medsos {
-    width: auto;
-    padding: center;
+    width: 100%;
+    padding-left: 240px;
   }
 
 }
