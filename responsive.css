@@ -22,7 +22,7 @@
   width: 50%;
 }
 .medsos {
-  padding-left: 155px;
+  width: 100%px;
 }
   
 }
@@ -78,7 +78,7 @@
     width: 100%;
   }
   .medsos {
-    padding-left: 240px;
+    width: 100%;
   }
 
 }
