@@ -23,7 +23,7 @@
 }
 .medsos {
   width: 100%;
-  padding-left: 155px;
+  float: none;
 }
   
 }
@@ -80,7 +80,7 @@
   }
   .medsos {
     width: 100%;
-    padding-left: 240px;
+    float: none;
   }
 
 }
