@@ -23,7 +23,7 @@
 }
 .medsos {
   width: auto;
-  float: none;
+  float: right;
 }
   
 }
@@ -80,7 +80,7 @@
   }
   .medsos {
     width: auto;
-    float: none;
+    float: right;
   }
 
 }
