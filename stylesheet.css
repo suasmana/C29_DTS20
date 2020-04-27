@@ -156,6 +156,86 @@ header {
   animation:10s slideshow infinite
 }
 
+/*Emilio Fajriyan part kontak*/
+
+.konten {
+  max-width: 1170px;
+  /*width: 1170px;*/
+  width: 100%;
+  margin : 0 auto;
+}
+
+.part-isi {
+  text-align: center;
+  border-top: 1px solid grey;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+}
+
+.judul {
+  font-weight: normal;
+  padding: 60px 0 30px 0;
+  color: #5f5d60;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.ikon {
+  float: left;
+  width: 20%;
+}
+
+.foto {
+  width : 150px;
+}
+
+.medsos {
+  padding-left: 30px;
+  background-color: yellow;
+}
+
+.nama {
+  padding-bottom: 10px;
+}
+
+.facebook {
+  float: left;
+  margin-left: 20px;
+}
+
+.facebook img {
+  width: 30px;
+  height: 30px;
+}
+
+.instagram {
+  float: left;
+  margin-left: 20px;
+}
+
+.instagram img {
+  width: 30px;
+  height: 30px;
+}
+
+.twitter {
+  float: left;
+  margin-left: 20px;
+}
+
+.twitter img {
+  width: 30px;
+  height: 30px;
+}
+
+.clear {
+  clear: left;
+}
+/*Emilio Fajriyan part kontak*/
+
 /* contact us dikerjakan oleh dyah putri tsaniyah */
 .contact-us{
   border-radius: 5px;
