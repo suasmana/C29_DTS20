@@ -17,14 +17,14 @@
     overflow: hidden; width: 85%; margin: 0 auto;
   }
   
-  /*Emilio Fajriyan part kontak*//*
+  /*Emilio Fajriyan part kontak*/
 .ikon {
   width: 50%;
 }
 .medsos {
   padding-left: 155px;
 }
-*/
+  
 }
 
 /* Untuk Smartphone */
@@ -73,7 +73,7 @@
     overflow: hidden; width: 85%; margin: 0 auto;
   }
   
-/*Emilio Fajriyan part kontak*//*
+/*Emilio Fajriyan part kontak*/
   .ikon {
     width: 100%;
   }
@@ -81,5 +81,4 @@
     padding-left: 240px;
   }
 
-*/
 }
