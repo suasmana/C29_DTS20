@@ -10,6 +10,7 @@ body {
 a {
   text-decoration: none;
 }
+
 /* Header dikerjakan oleh suasmana */
 header {
   height: 65px;
@@ -32,7 +33,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right: 10px;
+  margin-right: -25px;
 }
 
 .header-right a {
