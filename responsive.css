@@ -23,7 +23,7 @@
 }
 .medsos {
   width: auto;
-  padding-left: 155px;
+  padding: center;
 }
   
 }
@@ -80,7 +80,7 @@
   }
   .medsos {
     width: auto;
-    padding-left: 240px;
+    padding: center;
   }
 
 }
