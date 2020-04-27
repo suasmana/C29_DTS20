@@ -12,6 +12,10 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  #slider {
+    overflow: hidden; width: 75%; margin: 0 auto;
+  }
 }
 
 /* Untuk Smartphone */
@@ -52,5 +56,9 @@
   .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
+  }
+  
+  #slider {
+    overflow: hidden; width: 75%; margin: 0 auto;
   }
 }
