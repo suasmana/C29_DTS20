@@ -22,7 +22,8 @@
   width: 50%;
 }
 .medsos {
-  width: 100%px;
+  width: auto;
+  float: none;
 }
   
 }
@@ -78,7 +79,8 @@
     width: 100%;
   }
   .medsos {
-    width: 100%;
+    width: auto;
+    float: none;
   }
 
 }
